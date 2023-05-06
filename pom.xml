@@ -69,5 +69,13 @@
             <artifactId>junit</artifactId>
             <version>4.11</version>
         </dependency>
+        <dependency>
+            <groupId>com.sun</groupId>
+            <artifactId>tools</artifactId>
+            <version>20.0.1</version>
+            <scope>system</scope>
+            <systemPath>/Library/Java/JavaVirtualMachines/jdk-20.jdk/Contents/Home/lib/jrt-fs.jar</systemPath>
+        </dependency>
+
     </dependencies>
 </project>
